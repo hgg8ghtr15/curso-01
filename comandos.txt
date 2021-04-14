@@ -22,3 +22,5 @@ npm run dev
     02 - query params = paginação, filtro "?page=1&order=asc"
     03 - body params = os objetos para Crud
 
+**** 07 gerador de id
+    npm install uuid
