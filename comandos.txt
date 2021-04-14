@@ -1,0 +1,24 @@
+**** 01
+npm init
+
+**** 02
+npm install express
+
+**** 03 como pendencia
+npn install --save-dev nodemon
+
+**** 04 executando o nodemon
+npm run dev
+
+**** 06 tipos de requisoção
+    01- Get     Recebe
+    02- Post    cria
+    03- Put     Altera
+    04- Patch   Altera especifico
+    05- Delete  Deleta
+
+**** 06 tipos de paramentros
+    01 - Router params "/:id" = idendicar um recurso ou deletado. "Cru"
+    02 - query params = paginação, filtro "?page=1&order=asc"
+    03 - body params = os objetos para Crud
+
